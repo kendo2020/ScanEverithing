@@ -1,0 +1,2 @@
+# ScanEverithing
+ScanEverithing policy
